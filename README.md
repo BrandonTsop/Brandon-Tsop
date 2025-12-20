@@ -1,4 +1,4 @@
-👋 Bienvenue sur mon portfolio.
+###👋 Bienvenue sur mon portfolio.
 Je suis étudiant en cycle ingénieur agronome à l’ISARA Lyon, passionné par la production végétale, l’expérimentation agronomique et le développement durable.
 Mon objectif est de développer un profil hybride, à la fois très terrain et orienté recherche, avec une ambition claire : poursuivre en thèse, notamment en génétique et amélioration des cultures, tout en restant connecté aux réalités agricoles.
 
