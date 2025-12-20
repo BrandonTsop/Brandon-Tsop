@@ -1,134 +1,158 @@
-###👋 Bienvenue sur mon portfolio.
-Je suis étudiant en cycle ingénieur agronome à l’ISARA Lyon, passionné par la production végétale, l’expérimentation agronomique et le développement durable.
-Mon objectif est de développer un profil hybride, à la fois très terrain et orienté recherche, avec une ambition claire : poursuivre en thèse, notamment en génétique et amélioration des cultures, tout en restant connecté aux réalités agricoles.
+<h1 align="center">🌱 Brandon TSOP MEJIO</h1>
 
-🎯 Domaines d’intérêt
+<p align="center">
+<b>Ingénieur agronome en formation | Expérimentation agronomique | Production végétale</b>
+</p>
 
-🌾 Production végétale & systèmes de culture
+<p align="center">
+Du champ à la donnée scientifique — terrain, rigueur et vision durable
+</p>
 
-🔬 Expérimentation agronomique (germination, rendement, analyse statistique)
+<p align="center">
+<img src="https://img.shields.io/badge/Agronomie-Production%20végétale-2e7d32">
+<img src="https://img.shields.io/badge/Expérimentation-ANOVA%20%7C%20R-1565c0">
+<img src="https://img.shields.io/badge/Objectif-Thèse%20%26%20Recherche-f57c00">
+</p>
 
-🌱 Agroécologie & pratiques durables
+<hr>
 
-🌍 Agriculture tropicale et méditerranéenne
+<h2>🚀 À propos de moi</h2>
 
-📊 Analyse de données agronomiques (R, ANOVA)
+<ul>
+<li>🎓 Étudiant en <b>cycle ingénieur agronome à l’ISARA Lyon</b></li>
+<li>🌱 Spécialisation : <b>production végétale & expérimentation agronomique</b></li>
+<li>🔬 Approche : <b>terrain + analyse scientifique des données</b></li>
+<li>🎯 Ambition claire : <b>poursuivre en thèse (génétique & amélioration des cultures)</b></li>
+</ul>
 
-🌳 Multiplication végétative & pépinière fruitière
-🧪 Projets phares
-🔥 Thermopriming des semences (Projet de licence)
+<p>
+Je développe un profil hybride, capable de concevoir, mettre en œuvre et analyser des essais agronomiques,
+tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
+</p>
 
-📌 Objectif : évaluer l’impact du thermopriming sur la germination et la production
-📌 Culture étudiée : pastèque / concombre (Cucumeropsis mannii)
-📌 Méthodologie :
+<hr>
 
-Traitement thermique des semences
+<h2>🎯 Domaines d’intérêt</h2>
 
-Mise en place d’un dispositif expérimental
+<ul>
+<li>🌾 Production végétale & systèmes de culture</li>
+<li>🧪 Expérimentation agronomique (germination, rendement)</li>
+<li>📊 Analyse de données agronomiques (R, ANOVA)</li>
+<li>🌱 Agroécologie & pratiques durables</li>
+<li>🌍 Agriculture tropicale & méditerranéenne</li>
+<li>🌳 Multiplication végétative & pépinière fruitière</li>
+</ul>
 
-Suivi de la germination et du rendement
+<hr>
 
-Analyse statistique (ANOVA)
+<h2>🧪 Projets phares</h2>
 
-🔗 Lien du projet :
-👉 https://github.com/ton-github/thermopriming-semences
-🌱 Projet personnel d’expérimentation agricole
+<h3>🔥 Thermopriming des semences — Projet de licence</h3>
 
-📌 Conception et suivi d’essais en conditions réelles
-📌 Collecte de données biologiques
-📌 Analyse et interprétation des résultats
+<ul>
+<li>📌 <b>Objectif</b> : évaluer l’impact du thermopriming sur la germination et la production</li>
+<li>🌱 <b>Culture étudiée</b> : pastèque / concombre (<i>Cucumeropsis mannii</i>)</li>
+<li>🧪 <b>Méthodologie</b> :
+  <ul>
+    <li>Traitement thermique des semences</li>
+    <li>Mise en place d’un dispositif expérimental</li>
+    <li>Suivi de la germination et du rendement</li>
+    <li>Analyse statistique (ANOVA sous R)</li>
+  </ul>
+</li>
+</ul>
 
-🔗 Lien du projet :
-👉 https://github.com/ton-github/experimentation-agricole
-🌳 Production & commercialisation de plants fruitiers
+<p>
+🔗 <a href="https://github.com/ton-github/thermopriming-semences"><b>Voir le projet</b></a>
+</p>
 
-📌 Production de jeunes plants : avocatiers, manguiers, citronniers, safoutiers, papayers, corossoliers
-📌 Objectif : ≥ 25 000 plants/an
-📌 Techniques :
+<hr>
 
-Greffage
+<h3>🌾 Projet personnel d’expérimentation agricole</h3>
 
-Marcottage
+<ul>
+<li>Mise en place d’essais en conditions réelles</li>
+<li>Collecte de données biologiques fiables</li>
+<li>Analyse scientifique appliquée à la production</li>
+</ul>
 
-Gestion de pépinière
+<p>
+🔗 <a href="https://github.com/ton-github/experimentation-agricole"><b>Voir le projet</b></a>
+</p>
 
-Commercialisation
+<hr>
 
-🔗 Lien du projet :
-👉 https://github.com/ton-github/pepinieres-fruitieres
-🗄️ Base de données de traçabilité agricole (Microsoft Access)
+<h3>🌳 Production & commercialisation de plants fruitiers</h3>
 
-📌 Conception d’une base de données pour :
+<ul>
+<li>Espèces : avocatier, manguier, safoutier, agrumes, papayer, corossolier</li>
+<li>Techniques : greffage, marcottage, gestion de pépinière</li>
+<li>🎯 Objectif : <b>≥ 25 000 plants produits par an</b></li>
+</ul>
 
-Gestion des stagiaires
+<p>
+🔗 <a href="https://github.com/ton-github/pepinieres-fruitieres"><b>Voir le projet</b></a>
+</p>
 
-Comptes d’exploitation
+<hr>
 
-Suivi des productions
+<h3>🗄️ Traçabilité agricole & données (Microsoft Access)</h3>
 
-📌 Outils :
+<ul>
+<li>Gestion des exploitations agricoles</li>
+<li>Suivi des stagiaires</li>
+<li>Comptes d’exploitation</li>
+<li>Automatisation via requêtes et états</li>
+</ul>
 
-Microsoft Access
+<p>
+🔗 <a href="https://github.com/ton-github/tracabilite-agricole-access"><b>Voir le projet</b></a>
+</p>
 
-Requêtes
+<hr>
 
-États automatisés
+<h2>🧠 Compétences</h2>
 
-🔗 Lien du projet :
-👉 https://github.com/ton-github/tracabilite-agricole-access
-🧠 Compétences techniques
+<ul>
+<li><b>Agronomie & expérimentation</b> : essais agronomiques, collecte de données, analyse de résultats</li>
+<li><b>Statistiques</b> : ANOVA, interprétation agronomique</li>
+<li><b>Outils</b> : R, QGIS, Excel, Microsoft Access</li>
+<li><b>Production agricole</b> : analyse des sols, lutte biologique, multiplication végétative</li>
+</ul>
 
-Agronomie & expérimentation
+<hr>
 
-Mise en place d’essais agronomiques
+<h2>🎓 Formation</h2>
 
-Prélèvement de données biologiques
+<ul>
+<li>🎓 <b>ISARA Lyon</b> — Cycle ingénieur agronome (en cours)</li>
+<li>🎓 Licence professionnelle agricole — Mention Bien</li>
+<li>🎓 BTS Agricole — Mention Bien</li>
+</ul>
 
-Analyse statistique (ANOVA)
+<hr>
 
-Outils
+<h2>🎯 Objectif actuel</h2>
 
-R
+<p>
+🔍 Recherche d’une <b>alternance ou d’un stage ingénieur agronome</b><br>
+📍 Production végétale • Expérimentation • Innovation agricole
+</p>
 
-QGIS
+<hr>
 
-Microsoft Excel
+<h2>📬 Me contacter</h2>
 
-Microsoft Access
+<p>
+📧 <b>Email</b> : brandontsop11@gmail.com<br>
+📱 <b>Téléphone</b> : +33 7 51 18 23 91<br>
+🔗 <a href="https://github.com/ton-github">GitHub</a><br>
+🔗 <a href="https://linkedin.com/in/ton-profil">LinkedIn</a>
+</p>
 
-Production agricole
+<hr>
 
-Lutte biologique
+<p align="center">
+<i>« Produire durablement, expérimenter rigoureusement et transformer la donnée en décisions agricoles. »</i>
+</p>
 
-Analyse des sols
-
-Multiplication végétative
-
-Production maraîchère & fruitière
-🌍 Expériences professionnelles
-
-IRAD – Stage académique (expérimentation & données)
-
-Les Vergers d’Afrique – Technicien supérieur d’agriculture
-
-Production de fraises & champignons pleurotes
-
-Projet Agro’s Hope – Agriculture & communication
-🎓 Formation
-
-🎓 ISARA Lyon – Cycle ingénieur agronome (en cours)
-
-🎓 Licence professionnelle en agriculture – INSAM Douala (Mention Bien)
-
-🎓 BTS Agricole – INSAM Douala (Mention Bien)
-🌐 Me contacter
-
-📧 Email : brandontsop11@gmail.com
-
-📱 Téléphone : +33 7 51 18 23 91
-🚗 Permis B
-🌍 France / International
-
-🔗 LinkedIn : https://linkedin.com/in/ton-profil
-
-🔗 GitHub : https://github.com/ton-github
