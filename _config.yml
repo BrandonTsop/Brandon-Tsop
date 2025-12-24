@@ -1,6 +1,7 @@
-tittle: "Brandon Tsop"
-logo: img/nny.jpg
-description: "portfolio etudiant - production vegetale, genetique"
+
+title: "Brandon Tsop"
+logo: "portrait.jpg"  
+description: "Portfolio étudiant - Production végétale, Génétique"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: fr
