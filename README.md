@@ -1,10 +1,6 @@
 <h1 align="center">🌱 Brandon TSOP MEJIO</h1>
 
 <p align="center">
-  <img src="images/photo.jpg" alt="Brandon Tsop" width="150" style="border-radius: 50%;">
-</p>
-
-<p align="center">
 <b>Ingénieur agronome en formation | Expérimentation agronomique | Production végétale</b>
 </p>
 
