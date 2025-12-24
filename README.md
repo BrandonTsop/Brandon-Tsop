@@ -22,12 +22,12 @@ Du champ à la donnée scientifique — terrain, rigueur et vision durable
 <li>🎓 Étudiant en <b>cycle ingénieur agronome à l’ISARA Lyon</b></li>
 <li>🌱 Spécialisation : <b>production végétale & expérimentation agronomique</b></li>
 <li>🔬 Approche : <b>terrain + analyse scientifique des données</b></li>
-<li>🎯 Ambition claire : <b>poursuivre en thèse (génétique & amélioration des cultures)</b></li>
+<li>🎯 Ambition : <b>poursuivre en thèse (génétique & amélioration des cultures)</b></li>
 </ul>
 
 <p>
-Je développe un profil hybride, capable de concevoir, mettre en œuvre et analyser des essais agronomiques,
-tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
+Je développe un profil hybride reliant pratiques de terrain, rigueur scientifique et outils numériques
+pour produire des données fiables utiles à la recherche et à la décision agricole.
 </p>
 
 <hr>
@@ -37,10 +37,10 @@ tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
 <ul>
 <li>🌾 Production végétale & systèmes de culture</li>
 <li>🧪 Expérimentation agronomique (germination, rendement)</li>
-<li>📊 Analyse de données agronomiques (R, ANOVA)</li>
+<li>📊 Analyse statistique agronomique (R, ANOVA)</li>
 <li>🌱 Agroécologie & pratiques durables</li>
 <li>🌍 Agriculture tropicale & méditerranéenne</li>
-<li>🌳 Multiplication végétative & pépinière fruitière</li>
+<li>🌳 Multiplication végétative & pépinières fruitières</li>
 </ul>
 
 <hr>
@@ -50,74 +50,59 @@ tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
 <h3>🔥 Thermopriming des semences — Projet de licence</h3>
 
 <ul>
-<li>📌 <b>Objectif</b> : évaluer l’impact du thermopriming sur la germination et la production</li>
-<li>🌱 <b>Culture étudiée</b> : pastèque / concombre (<i>Cucumeropsis mannii</i>)</li>
+<li>📌 <b>Objectif</b> : comparer l’impact du thermopriming sur la germination et la production</li>
+<li>🌱 <b>Cultures</b> : pastèque & concombre</li>
 <li>🧪 <b>Méthodologie</b> :
   <ul>
-    <li>Traitement thermique des semences</li>
-    <li>Mise en place d’un dispositif expérimental</li>
-    <li>Suivi de la germination et du rendement</li>
-    <li>Analyse statistique (ANOVA sous R)</li>
+    <li>Traitements thermiques contrôlés</li>
+    <li>Dispositif expérimental randomisé</li>
+    <li>Collecte de données biologiques</li>
+    <li>Analyses statistiques sous R (ANOVA)</li>
   </ul>
 </li>
 </ul>
 
-<p>
-🔗 <a href="https://github.com/ton-github/thermopriming-semences"><b>Voir le projet</b></a>
-</p>
-
 <hr>
 
-<h3>🌾 Projet personnel d’expérimentation agricole</h3>
+<h3>🌐 Application de gestion agricole & expérimentation</h3>
 
 <ul>
-<li>Mise en place d’essais en conditions réelles</li>
-<li>Collecte de données biologiques fiables</li>
-<li>Analyse scientifique appliquée à la production</li>
+<li>📌 Digitalisation de la gestion des exploitations et essais agronomiques</li>
+<li>Suivi parcellaire, itinéraires techniques et traitements</li>
+<li>Collecte structurée des données de germination & rendement</li>
+<li>États automatiques, tableaux de bord et export R</li>
+<li>Technologie : Microsoft Access / SQL</li>
 </ul>
-
-<p>
-🔗 <a href="https://github.com/ton-github/experimentation-agricole"><b>Voir le projet</b></a>
-</p>
 
 <hr>
 
 <h3>🌳 Production & commercialisation de plants fruitiers</h3>
 
 <ul>
-<li>Espèces : avocatier, manguier, safoutier, agrumes, papayer, corossolier</li>
-<li>Techniques : greffage, marcottage, gestion de pépinière</li>
-<li>🎯 Objectif : <b>≥ 25 000 plants produits par an</b></li>
+<li>Avocatier, manguier, safoutier, agrumes, papayer, corossolier</li>
+<li>Greffage, marcottage, gestion de pépinière</li>
+<li><b>Objectif : ≥ 25 000 plants/an</b></li>
 </ul>
-
-<p>
-🔗 <a href="https://github.com/ton-github/pepinieres-fruitieres"><b>Voir le projet</b></a>
-</p>
 
 <hr>
 
-<h3>🗄️ Traçabilité agricole & données (Microsoft Access)</h3>
+<h3>🌾 Projets d’essais en conditions réelles</h3>
 
 <ul>
-<li>Gestion des exploitations agricoles</li>
-<li>Suivi des stagiaires</li>
-<li>Comptes d’exploitation</li>
-<li>Automatisation via requêtes et états</li>
+<li>Implantation d’essais de terrain</li>
+<li>Collecte de données fiables</li>
+<li>Analyses scientifiques appliquées à la production</li>
 </ul>
-
-<p>
-🔗 <a href="https://github.com/ton-github/tracabilite-agricole-access"><b>Voir le projet</b></a>
-</p>
 
 <hr>
 
 <h2>🧠 Compétences</h2>
 
 <ul>
-<li><b>Agronomie & expérimentation</b> : essais agronomiques, collecte de données, analyse de résultats</li>
-<li><b>Statistiques</b> : ANOVA, interprétation agronomique</li>
-<li><b>Outils</b> : R, QGIS, Excel, Microsoft Access</li>
-<li><b>Production agricole</b> : analyse des sols, lutte biologique, multiplication végétative</li>
+<li>Expérimentation agronomique & méthodologie scientifique</li>
+<li>Analyse de données agronomiques (R, Excel, ANOVA)</li>
+<li>Microsoft Access, QGIS, Excel</li>
+<li>Production végétale & multiplication végétative</li>
 </ul>
 
 <hr>
@@ -125,9 +110,9 @@ tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
 <h2>🎓 Formation</h2>
 
 <ul>
-<li>🎓 <b>ISARA Lyon</b> — Cycle ingénieur agronome (en cours)</li>
-<li>🎓 Licence professionnelle agricole — Mention Bien</li>
-<li>🎓 BTS Agricole — Mention Bien</li>
+<li><b>ISARA Lyon</b> — Cycle ingénieur agronome (en cours)</li>
+<li>Licence professionnelle agricole — Mention Bien</li>
+<li>BTS Agricole — Mention Bien</li>
 </ul>
 
 <hr>
@@ -135,8 +120,8 @@ tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
 <h2>🎯 Objectif actuel</h2>
 
 <p>
-🔍 Recherche d’une <b>alternance ou d’un stage ingénieur agronome</b><br>
-📍 Production végétale • Expérimentation • Innovation agricole
+Recherche d’une <b>alternance ou stage ingénieur agronome</b><br>
+Production végétale • Expérimentation • Innovation agricole
 </p>
 
 <hr>
@@ -144,15 +129,16 @@ tout en restant connecté aux réalités agricoles et aux enjeux de durabilité.
 <h2>📬 Me contacter</h2>
 
 <p>
-📧 <b>Email</b> : brandontsop11@gmail.com<br>
-📱 <b>Téléphone</b> : +33 7 51 18 23 91<br>
-🔗 <a href="https://github.com/ton-github">GitHub</a><br>
-🔗 <a href="https://linkedin.com/in/ton-profil">LinkedIn</a>
+📧 Email : <b>brandontsop11@gmail.com</b><br>
+📱 Téléphone : <b>+33 7 51 18 23 91</b><br>
+🔗 LinkedIn : <a href="https://linkedin.com/in/brandon-tsop-b63a0a300">linkedin.com/in/brandon-tsop</a>
 </p>
 
 <hr>
 
 <p align="center">
 <i>« Produire durablement, expérimenter rigoureusement et transformer la donnée en décisions agricoles. »</i>
+</p>
+nt et transformer la donnée en décisions agricoles. »</i>
 </p>
 
