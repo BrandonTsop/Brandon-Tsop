@@ -1,11 +1,16 @@
+<!-- Header avec photo centrée -->
 <h1 align="center">🌱 Brandon TSOP MEJIO</h1>
 
 <p align="center">
-<b>Ingénieur agronome en formation | Expérimentation agronomique | Production végétale</b>
+  <img src="images/portrait.jpg" alt="Brandon Tsop" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 2px solid #2e7d32;">
 </p>
 
 <p align="center">
-Du champ à la donnée scientifique — terrain, rigueur et vision durable
+  <b>Ingénieur agronome en formation | Expérimentation agronomique | Production végétale</b>
+</p>
+
+<p align="center">
+  Du champ à la donnée scientifique — terrain, rigueur et vision durable
 </p>
 
 <p align="center">
@@ -62,6 +67,10 @@ pour produire des données fiables utiles à la recherche et à la décision agr
 </li>
 </ul>
 
+<p>
+🔗 <a href="https://github.com/ton-github/thermopriming-semences"><b>Voir le projet</b></a>
+</p>
+
 <hr>
 
 <h3>🌐 Application de gestion agricole & expérimentation</h3>
@@ -74,6 +83,10 @@ pour produire des données fiables utiles à la recherche et à la décision agr
 <li>Technologie : Microsoft Access / SQL</li>
 </ul>
 
+<p>
+🔗 <a href="https://github.com/ton-github/application-agricole"><b>Voir l’application</b></a>
+</p>
+
 <hr>
 
 <h3>🌳 Production & commercialisation de plants fruitiers</h3>
@@ -84,6 +97,10 @@ pour produire des données fiables utiles à la recherche et à la décision agr
 <li><b>Objectif : ≥ 25 000 plants/an</b></li>
 </ul>
 
+<p>
+🔗 <a href="https://github.com/ton-github/pepinieres-fruitieres"><b>Voir le projet</b></a>
+</p>
+
 <hr>
 
 <h3>🌾 Projets d’essais en conditions réelles</h3>
@@ -93,6 +110,10 @@ pour produire des données fiables utiles à la recherche et à la décision agr
 <li>Collecte de données fiables</li>
 <li>Analyses scientifiques appliquées à la production</li>
 </ul>
+
+<p>
+🔗 <a href="https://github.com/ton-github/experimentation-agricole"><b>Voir le projet</b></a>
+</p>
 
 <hr>
 
@@ -138,7 +159,5 @@ Production végétale • Expérimentation • Innovation agricole
 
 <p align="center">
 <i>« Produire durablement, expérimenter rigoureusement et transformer la donnée en décisions agricoles. »</i>
-</p>
-nt et transformer la donnée en décisions agricoles. »</i>
 </p>
 
