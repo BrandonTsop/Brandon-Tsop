@@ -1,0 +1,471 @@
+/* ===============================
+   VARIABLES
+================================ */
+:root {
+    --green-dark: #0b6b4f;
+    --green-light: #6bcf63;
+    --black: #222;
+    --white: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'inter', sans-serif;
+}
+
+body {
+    /* background: #ececec; */
+    color: #222;
+    line-height: 1.6;
+}
+
+/* NAVBAR */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+}
+
+.navbar nav a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+}
+
+/* HERO */
+.poppins{
+    font-family: poppins;
+}
+.manrope{
+    font-family: manrope;
+}
+.inter{
+    font-family: inter;
+}
+.montserrat{
+    font-family: montserrat;
+}
+.shine{
+    font-family: Shine In Valentine;
+} 
+.hero {
+    text-align: left;
+    padding: 60px 10%;
+    /* background-image: url("images/hero-bg.jpg") ; */
+}
+
+.profile-pic {
+    width: 140px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.hero h2 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.subtitle {
+    margin: 15px 0 25px;
+    color: #444;
+}
+
+.btn {
+    background: #0b6b4f;
+    color: #fff;
+    padding: 12px 28px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+/* ABOUT */
+.about {
+    /* background: #0b6b4f; */
+    background: #111232;
+    background-image: url("images/bg.c27d6854.png");
+    color: white;
+    padding: 60px 18%;
+    height: 500px;
+    display: flex;
+}
+
+.about-content {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+.about img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.about h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.link {
+    color: #e8ffdf;
+    text-decoration: underline;
+}
+
+/* INTERESTS */
+.interests {
+    padding: 60px 8%;
+    text-align: center;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.card {
+    background: #0f2136;
+     /* background: linear-gradient(71deg, #080509, #1a171c, #040414); */
+     /* background: linear-gradient(71deg, #080509, #1a171c, #080509); */
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding: 30px 25px;
+    border-radius: 12px;
+    font-size: 19px;
+}
+.card span{
+    font-size: 30px;
+}
+.card:hover{
+    background-color: #040a11;
+    transition: background-color .5s ease;
+    cursor:pointer;
+    transform: translateY(-5);
+}
+
+/* SKILLS */
+.skills {
+    padding: 60px 8%;
+    text-align: center;
+}
+
+.skill {
+    /* background: linear-gradient(90deg, #0b6b4f, #6bcf63); */
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 12px auto;
+    max-width: 700px;
+}
+
+/* EDUCATION */
+.education {
+    padding: 50px 8%;
+    text-align: center;
+}
+
+.education ul {
+    list-style: none;
+}
+
+.education li {
+    margin: 10px 0;
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #f4f4f4;
+    font-size: 14px;
+}
+/* ===============================
+   CONTACT SECTION
+================================ */
+.contact {
+    padding: 80px 8%;
+    background: linear-gradient(
+        135deg,
+        #f4f9f6,
+        #ffffff
+    );
+    text-align: center;
+}
+
+.contact h3 {
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.contact-intro {
+    max-width: 600px;
+    margin: 0 auto 50px;
+    color: #555;
+    font-size: 15px;
+}
+
+/* CARDS */
+.contact-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.contact-card {
+    background: white;
+    padding: 25px;
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-decoration: none;
+    color: #222;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    transition: 
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.contact-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 18px 40px rgba(0,0,0,0.12);
+}
+
+/* ICONS */
+.contact-card .icon {
+    font-size: 36px;
+}
+
+/* TEXT */
+.contact-card h4 {
+    margin-bottom: 4px;
+    font-size: 18px;
+}
+
+.contact-card p {
+    font-size: 14px;
+    color: #555;
+    word-break: break-word;
+}
+
+/* RESPONSIVE */
+@media (max-width: 500px) {
+    .contact h3 {
+        font-size: 26px;
+    }
+
+    .contact-card {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+
+/* ===============================
+   RESPONSIVE BASE
+================================ */
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    overflow: hidden;
+}
+
+/* ===============================
+   ANIMATIONS AU SCROLL (BLUR)
+================================ */
+.reveal {
+    opacity: 0;
+    filter: blur(12px);
+    transform: translateY(40px);
+    transition: 
+        opacity 0.8s ease,
+        filter 0.8s ease,
+        transform 0.8s ease;
+}
+
+.reveal.active {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+}
+
+/* Variantes */
+.reveal-left {
+    transform: translateX(-40px);
+}
+
+.reveal-right {
+    transform: translateX(40px);
+}
+
+.reveal-left.active,
+.reveal-right.active {
+    transform: translateX(0);
+}
+
+/* ===============================
+   NAVBAR & OFFCANVAS
+================================ */
+.menu-toggle {
+    display: none;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+/* MOBILE MENU */
+@media (max-width: 900px) {
+   .logo{
+    font-size: 20px;
+   }
+    .menu-toggle {
+        display: block;
+        z-index: 1001;
+    }
+
+    .navbar nav {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 75%;
+        height: 100vh;
+        background: var(--green-dark);
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        transition: right 0.4s ease;
+        z-index: 1000;
+    }
+
+    .navbar nav a {
+        color: white;
+        font-size: 20px;
+        margin: 15px 0;
+    }
+
+    /* Quand menu ouvert */
+    body.menu-open .navbar nav {
+        right: 0;
+    }
+
+    body.menu-open {
+        overflow: hidden;
+    }
+
+    /* Overlay */
+    .overlay {
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.4);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s;
+        z-index: 999;
+    }
+
+    body.menu-open .overlay {
+        opacity: 1;
+        pointer-events: all;
+    }
+}
+
+/* ===============================
+   HERO RESPONSIVE
+================================ */
+@media (max-width: 768px) {
+    .interests {
+    padding: 60px 4%;
+    text-align: center;
+}
+    .hero h2 {
+        font-size: 32px;
+        line-height: 1;
+        font-family: 'poppins';
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
+    .profile-pic {
+        width: 110px;
+    }
+}
+
+/* ===============================
+   ABOUT SECTION RESPONSIVE
+================================ */
+@media (max-width: 900px) {
+    .about-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about img {
+        margin-bottom: 20px;
+    }
+    .about{
+         padding: 60px 8%;
+    height: auto;
+    }
+}
+
+/* ===============================
+   CARDS & GRID
+================================ */
+@media (max-width: 600px) {
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 5px;
+    }
+    .card{
+        font-size: 18px;
+    }
+}
+
+/* ===============================
+   SKILLS ANIMATION HOVER
+================================ */
+.skill {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skill:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+/* ===============================
+   BUTTON INTERACTIONS
+================================ */
+.btn {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* ===============================
+   FOOTER RESPONSIVE
+================================ */
+@media (max-width: 500px) {
+    .footer {
+        font-size: 12px;
+    }
+}
